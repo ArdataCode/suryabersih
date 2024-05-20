@@ -1,0 +1,865 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cleanse - Cleaning Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - Block",
+            "screenshot": "screenshots\/subscribe-form-block.jpg",
+            "source": "templates\/subscribe-form-block.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/subscribe-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - Block",
+            "screenshot": "screenshots\/contact-form-block.jpg",
+            "source": "templates\/contact-form-block.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/contact-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment Form - Block",
+            "screenshot": "screenshots\/appointment-form-block.jpg",
+            "source": "templates\/appointment-form-block.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/appointment-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Archives",
+            "screenshot": "screenshots\/blog-archives.jpg",
+            "source": "templates\/blog-archives.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/blog-archives\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cleanse\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 12200,
+            "dimensions": [
+                592,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/Logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 11392,
+            "dimensions": [
+                592,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Stars2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/Stars2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4649,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Stars1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/Stars1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5203,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "joyful-young-housemaid-wiping-soap-sud-on-glass-wi-2022-02-07-22-21-47-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/joyful-young-housemaid-wiping-soap-sud-on-glass-wi-2022-02-07-22-21-47-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 266023,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-young-housemaid-wiping-soap-sud-on-glass-wi-YFMX74S"
+        },
+        {
+            "filename": "woman-is-using-phone-2022-04-06-04-59-07-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/woman-is-using-phone-2022-04-06-04-59-07-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                }
+            ],
+            "filesize": 249393,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-using-phone-94WAQNB"
+        },
+        {
+            "filename": "woman-is-using-phone-2022-01-19-00-20-30-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/woman-is-using-phone-2022-01-19-00-20-30-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 245363,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-using-phone-JW5EMU5"
+        },
+        {
+            "filename": "portrait-of-asian-young-cleaning-service-woman-wor-2021-12-09-21-04-04-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/portrait-of-asian-young-cleaning-service-woman-wor-2021-12-09-21-04-04-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 259631,
+            "dimensions": [
+                518,
+                518
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-young-cleaning-service-woman-wor-7YP2ZAT"
+        },
+        {
+            "filename": "scared-emotive-woman-with-surprised-expression-we-2022-02-06-07-01-18-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/scared-emotive-woman-with-surprised-expression-we-2022-02-06-07-01-18-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 257124,
+            "dimensions": [
+                486,
+                486
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/scared-emotive-woman-with-surprised-expression-wea-55VEFQV"
+        },
+        {
+            "filename": "positive-young-lady-washing-kitchen-cabinet-with-d-2021-09-02-05-06-11-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/positive-young-lady-washing-kitchen-cabinet-with-d-2021-09-02-05-06-11-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 238474,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/positive-young-lady-washing-kitchen-cabinet-with-d-EGZXCH4"
+        },
+        {
+            "filename": "woman-cleaning-window-with-rag-and-cleanser-spray-2021-09-03-14-19-50-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/woman-cleaning-window-with-rag-and-cleanser-spray-2021-09-03-14-19-50-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 231331,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-cleaning-window-with-rag-and-cleanser-spray--Q344J6B"
+        },
+        {
+            "filename": "asian-cleaning-service-woman-worker-cleaning-in-li-2021-12-09-20-22-54-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/asian-cleaning-service-woman-worker-cleaning-in-li-2021-12-09-20-22-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 262183,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-cleaning-service-woman-worker-cleaning-in-li-EX3CNEQ"
+        },
+        {
+            "filename": "icon6.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon6.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 84727,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon5.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon5.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 88922,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon3.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon3.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 84756,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon2.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon2.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 84892,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon7.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon7.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 86713,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon9.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon9.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 86869,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon8.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon8.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 87908,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon10.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon10.1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 81576,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "sbg2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/sbg2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 47137,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-housewife-holding-bucket-with-cleaning-suppl-2021-09-03-14-20-18-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/young-housewife-holding-bucket-with-cleaning-suppl-2021-09-03-14-20-18-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 267362,
+            "dimensions": [
+                375,
+                461
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-housewife-holding-bucket-with-cleaning-suppl-SRFWS4D"
+        },
+        {
+            "filename": "portrait-of-happy-millennial-lady-with-rag-wearing-2022-02-08-02-01-26-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/portrait-of-happy-millennial-lady-with-rag-wearing-2022-02-08-02-01-26-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 255632,
+            "dimensions": [
+                464,
+                464
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-millennial-lady-with-rag-wearing-JEGGY97"
+        },
+        {
+            "filename": "headshot-of-happy-surprised-woman-embraces-bottles.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/headshot-of-happy-surprised-woman-embraces-bottles.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 285461,
+            "dimensions": [
+                365,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/headshot-of-happy-surprised-woman-embraces-bottles-2FUK59P"
+        },
+        {
+            "filename": "icon1.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon1.1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 84300,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        },
+        {
+            "filename": "icon4.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cleanse\/wp-content\/uploads\/sites\/64\/2022\/05\/icon4.1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 85082,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cleaning-outline-style-NWT8V2Q"
+        }
+    ]
+}
